@@ -1,2 +1,2 @@
-# Project Name
-Initial commit
+# Idea1
+Initial commit as repo prep
